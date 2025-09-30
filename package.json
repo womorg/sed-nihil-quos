@@ -1,10 +1,10 @@
 {
   "name": "@womorg/sed-nihil-quos",
-  "version": "17.27.349",
+  "version": "17.27.350",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-commodi-officia": "^1.0.0",
